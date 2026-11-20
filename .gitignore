@@ -1,0 +1,5 @@
+*.edf
+*.fif
+__pycache__/
+*.pyc
+.DS_Store
